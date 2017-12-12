@@ -1,0 +1,26 @@
+.count{
+  width: 150px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.count>strong>i{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+  cursor: pointer;
+}
+.count>strong>.countRight{
+  margin-left: -1px;
+}
+.count>strong>.countCon{
+  position: relative;
+  width: 40px;
+  height: 20px;
+  border: 1px solid #aaa;
+  margin-left: -1px;
+  text-align: center;
+}

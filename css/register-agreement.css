@@ -1,0 +1,13 @@
+#agreement{
+	float: left;
+  margin-left: 30px;
+  margin-top: 3px;
+  margin-right: 5px;
+	color: #333;
+}
+#agreement1 {
+	color: #333;
+}
+#agreement1:hover{
+	color: #C69C6D;
+}
